@@ -17,13 +17,13 @@ Outside of School, I'm a casual <a href="https://www.goodreads.com/user/show/670
 named Kohaku (and I'm very proud of him)!
 
 
-## My Face
+## My Face.
 
-<img src="mino_nakurafan.jpg"/>
-<img src="kohaku.jpg"/>
+![myface](mino_nakurafan.jpg){:class="img-responsive"}
+![kohaku](kohaku.jpg){:class="img-responsive"}
 
 {% capture images %}
-	<img src="mino_nakurafan.jpg"/>
-	<img src="kohaku.jpg"/>
+    ![myface](mino_nakurafan.jpg){:class="img-responsive"}
+    ![kohaku](kohaku.jpg){:class="img-responsive"}
 {% endcapture %}
 
