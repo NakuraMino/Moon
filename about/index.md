@@ -17,7 +17,7 @@ Outside of School, I'm a casual <a href="https://www.goodreads.com/user/show/670
 named Kohaku (and I'm very proud of him)!
 
 
-## My Face.
+## My Face
 
 {% capture images %}
     ![myface](mino_nakurafan.jpg){:class="img-responsive"}
