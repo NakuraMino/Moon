@@ -19,8 +19,8 @@ named Kohaku (and I'm very proud of him)!
 
 ## My Face.
 
-![myface](mino_nakurafan.jpg){:class="img-responsive"}
-![kohaku](kohaku.jpg){:class="img-responsive"}
+![myface](mino_nakurafan.jpg){:height="510px" width="710px"}
+![kohaku](kohaku.jpg){:class="img-responsive"}{:height="510px" width="500px"}
 
 {% capture images %}
     ![myface](mino_nakurafan.jpg){:class="img-responsive"}
