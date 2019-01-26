@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
+title:  "Spotibot"
+date:   2019-01-26
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
@@ -147,14 +147,3 @@ feaure: http://example.com/some-image.png
 ### Comments
 To show disqus comments for your post add `comments: true` to your post's front matter.
 
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
