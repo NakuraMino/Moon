@@ -23,13 +23,3 @@ named Kohaku (and I'm very proud of him)!
 <td> <img src="mino_nakurafan.jpg" alt="Drawing" style="width: 500px;"/> </td>
 <td> <img src="kohaku.jpg" alt="Drawing" style="width: 500px;"/> </td>
 </tr></table>
-
-
-![myface](mino_nakurafan.jpg){:height="510px" width="710px"}
-![kohaku](kohaku.jpg){:class="img-responsive"}{:height="510px" width="500px"}
-
-{% capture images %}
-    ![myface](mino_nakurafan.jpg){:class="img-responsive"}
-    ![kohaku](kohaku.jpg){:class="img-responsive"}
-{% endcapture %}
-
