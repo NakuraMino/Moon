@@ -7,6 +7,9 @@ tag:
 - quotes
 comments: true
 ---
+## Overview
+
+Sometimes I'll read something that I wish I wrote. I keep track of them here. I guess it's kind of like my own personal twitter/tumblr?
 
 # Quotations 
 
