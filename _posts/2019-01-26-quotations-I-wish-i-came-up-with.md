@@ -11,3 +11,5 @@ comments: true
 # Quotations 
 
 "He emphasized that even feeling qualified enough to apply said great amounts about what I (and all of you!) can accomplish in the future." - someone on Reddit
+
+"NYAAAAAAAAARGH" - someone on Reddit
