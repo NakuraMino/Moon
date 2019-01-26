@@ -19,6 +19,9 @@ named Kohaku (and I'm very proud of him)!
 
 ## My Face
 
+<img src="mino_nakurafan.jpg"/>
+<img src="kohaku.jpg"/>
+
 {% capture images %}
 	<img src="mino_nakurafan.jpg"/>
 	<img src="kohaku.jpg"/>
