@@ -1,37 +1,26 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Who I am
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+My name is Mino (It's pronounced like Nemo, but with the N and M switched). I'm a second-year CSE student at the UW
+and am currently a Teaching Assistant for CSE 142. I honestly don't know what I love about CS, but I do know that 
+I love solving problems and enjoy the challenges that CSE provides. 
 
-## Preview
+Outside of School, I'm a casual <a href="https://www.goodreads.com/user/show/67088130-mino-nakura">book reader</a>, 
+<a href="https://myanimelist.net/profile/cra_a_azy">anime viewer</a>, and dedicated soccer fan. I also have a dog
+named Kohaku (and I'm very proud of him)!
+
+
+## My Face
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+	<img src="mino_nakurafan.jpg"/>
+	<img src="kohaku.jpg"/>
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
