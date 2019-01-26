@@ -13,6 +13,8 @@ Sometimes I'll read something that I wish I wrote. I keep track of them here. I 
 
 # Quotations 
 
+### 1/26/2019
+
 "He emphasized that even feeling qualified enough to apply said great amounts about what I (and all of you!) can accomplish in the future." - someone on Reddit
 
 "NYAAAAAAAAARGH" - someone on Reddit
