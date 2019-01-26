@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spotibot"
-date:   2019-01-025
+date:   2019-01-25
 excerpt: "A Facebook Messenger Bot to retreive Spotify track links"
 project: true
 tag:
