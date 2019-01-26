@@ -20,6 +20,6 @@ named Kohaku (and I'm very proud of him)!
 ## My Face
 
 <table><tr>
-<td> <img src="mino_nakurafan.jpg" alt="Drawing" style="width: 500px;"/> </td>
-<td> <img src="kohaku.jpg" alt="Drawing" style="width: 500px;"/> </td>
+<td> <img src="mino_nakurafan.jpg" alt="Drawing" style="height: 500px;"/> </td>
+<td> <img src="kohaku.jpg" alt="Drawing" style="height: 500px;"/> </td>
 </tr></table>
