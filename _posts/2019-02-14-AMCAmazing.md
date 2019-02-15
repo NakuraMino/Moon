@@ -40,6 +40,4 @@ Today, you will be serving popcorn. Tomorrow, you will be sitting on the couch w
 Compared to most of you guys, I am younger and have not worked here for long. As my time here dwindles down, however, I must impart a few words to you all. The vast memories I created here are far more positive than negative. We tend to cherish things only when they are gone, as it is in my case. For now, it is okay to hate; it is okay to despair. But a year from now you will be somewhere else. Stay patient, stay resilient. Your time to live will come. 
 
 One day, you will be more than AMC amazing. 
- - someone on Reddit
 
-"NYAAAAAAAAARGH" - someone on Reddit
