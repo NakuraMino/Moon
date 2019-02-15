@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You are AMC Amazing"
-date:   2019-02-14
+date:   2017-08-15
 excerpt: "I wrote this back in High School. It's embarrassing but I thought I'd share it here"
 tag:
 - AMC
