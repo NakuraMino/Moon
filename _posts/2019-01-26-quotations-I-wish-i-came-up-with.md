@@ -13,6 +13,10 @@ Sometimes I'll read something that I wish I wrote. I keep track of them here. I 
 
 # Quotations 
 
+### 2/15/2019
+
+"Progress is made by challenging ideas and developing new arguments" - Ryan Muldoon, from *Free Speech and Learning from Difference*
+
 ### 1/26/2019
 
 "He emphasized that even feeling qualified enough to apply said great amounts about what I (and all of you!) can accomplish in the future." - someone on Reddit
