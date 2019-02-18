@@ -13,6 +13,10 @@ Sometimes I'll read something that I wish I wrote. I keep track of them here. I 
 
 # Quotations 
 
+### 2/17/2019
+
+"If in my position I can’t stand up to this kind of extortion, how many people can?" - Jeff Bezos, from *No Thank You, Mr. Pecker*
+
 ### 2/15/2019
 
 "Progress is made by challenging ideas and developing new arguments" - Ryan Muldoon, from *Free Speech and Learning from Difference*
