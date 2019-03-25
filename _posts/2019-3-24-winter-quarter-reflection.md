@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internships and Martyrdom"
-date:   2018-07-20
+date:   2019-03-24
 excerpt: "This post is kinda depressing."
 tag:
 - CSE
