@@ -6,11 +6,13 @@ tag:
 - internships
 comments: true
 ---
+
 ## Overview
 
 I think its really important to be able to look at your own failures and laugh them off. Here's where I'll
 keep tally of how many internship acceptances/rejections I get from this day forward. I only need one
 "congratulations" email, right?
+
 
 |Acceptances | Rejections |
 |------------|:----------:|
