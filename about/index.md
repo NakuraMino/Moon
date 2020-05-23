@@ -8,10 +8,9 @@ comments: false
     
 ## Who I am
 
-Hi there! I'm a currently a third-year CSE undergrad at the UW, teaching assistant for the introductory programming courses (currently on break), and (former) research assistant for the ConCodeIt! team at the <a href='https://hcrlab.cs.washington.edu/'>Human-Centered Robotics Lab</a>! In the summer, I will be working at Microsoft, under the Azure Product Infrastructure Engineering (PIE) team.
+Hi there! I am currently a third-year CSE undergrad at the UW. I used to help teach for the introductory programming courses as a TA (currently on break) and worked as a research assistant for the ConCodeIt! team at the <a href='https://hcrlab.cs.washington.edu/'>Human-Centered Robotics Lab</a>. In the summer, I will be working at Microsoft on the Azure Product Infrastructure Engineering (PIE) team.
 
-Outside of School, I'm a casual <a href="https://www.goodreads.com/user/show/67088130-mino-nakura">book reader</a> and Sounders/Man. United fan. I also have a dog
-named Kohaku.
+Outside of School, I'm a casual <a href="https://www.goodreads.com/user/show/67088130-mino-nakura">book reader</a> and Sounders/Man. United fan. I also have a dog named Kohaku.
 
 
 <table><tr>
