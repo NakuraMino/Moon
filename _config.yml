@@ -1,12 +1,12 @@
 # Site
 title:              Mino Nakura
-bio:                'Third-year CSE Student at the University of Washington. Third-year CSE Student at the University of Washington. Third-year CSE Student at the University of Washington. Third-year CSE Student at the University of Washington. Third-year CSE Student at the University of Washington.'
+bio:                'I am currently a third-year CSE Student at the University of Washington. Previously, I worked as a teaching assistant for the introductory CSE courses. I also worked as a research assistnat at the Human-Centered Robotics Lab under Mike Chung. In the summer, I will be working at Microsoft as a software engineering intern on the Azure Product Infrastructure Engineering (PIE) team.'
 description:        "Welcome to my website!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://nakuramino.github.io
 
